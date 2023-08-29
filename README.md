@@ -43,3 +43,4 @@ fastboot flash /path/to/recovery.img
 
 - Thanks to @mauronfrio for the TWRP tree for realme X/XT
 - TWRP team
+[![Build-RMX1901-OrangeFox-recovery](https://github.com/ij-israfil/recovery_device_realme_sdm710/actions/workflows/build_OrangeFox.yml/badge.svg?branch=ofox_RUI1&event=release)](https://github.com/ij-israfil/recovery_device_realme_sdm710/actions/workflows/build_OrangeFox.yml)
