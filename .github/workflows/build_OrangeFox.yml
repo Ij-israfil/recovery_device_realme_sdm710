@@ -48,7 +48,7 @@ jobs:
         mka adbd recoveryimage -j2
 
     - name: Upload recovery
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v3.1.2
       with:
         name: RMX1901-OFOX-RUI1-UNZIP
         path: |
