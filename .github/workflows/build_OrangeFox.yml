@@ -50,9 +50,8 @@ jobs:
     - name: Upload recovery
       uses: actions/upload-artifact@v3.1.2
       with:
-        name: RMX1901-OFOX-RUI1-UNZIP
+        name: RMX1901-OFOX-RUI1
         path: |
           fox_12.1/out/target/product/*/Orange*.zip
-          fox_12.1/out/target/product/*/Orange*.img
       
  
